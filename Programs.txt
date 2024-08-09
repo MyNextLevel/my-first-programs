@@ -1,0 +1,328 @@
+//Writing the word of "ALLAH" in c++! 
+#include <iostream>
+#include <cstdlib>
+using namespace std;
+int main () { 
+   cout <<endl; cout <<endl; cout <<endl;
+   for (int i=0; i<30; i++) cout<<" "; for (int i=0; i<9; i++) cout <<"A";
+   cout<<"  "; cout<<"L"; for (int i=0; i<10; i++) cout<<" "; cout<<"L";
+   for (int i=0; i<10; i++) cout<<" "; for (int i=0; i<9; i++) cout <<"A"; cout<<"  "; cout<<"H";
+   for (int i=0; i<7; i++) cout<<" "; cout<<"H"; cout << endl;
+
+   for (int i=0; i<3; i++) { for (int i=0; i<30; i++) cout<<" ";
+   cout<<"A"; for (int i=0; i<7; i++) cout<<" "; cout<<"A"; cout<<"  "; cout<<"L";
+   for (int i=0; i<10; i++) cout<<" "; cout<<"L"; for (int i=0; i<10; i++) cout<<" "; cout<<"A";
+   for (int i=0; i<7; i++) cout<<" "; cout<<"A"; cout<<"  "; cout<<"H";
+   for (int i=0; i<7; i++) cout<<" "; cout<<"H"; cout <<endl;
+   }
+
+   for (int i=0; i<30; i++) cout<<" "; for (int i=0; i<9; i++) cout <<"A"; cout<<"  "; cout<<"L"; for (int i=0; i<10; i++) cout<<" ";
+   cout<<"L"; for (int i=0; i<10; i++) cout<<" "; for (int i=0; i<9; i++) cout <<"A"; cout<<"  ";
+   for (int i=0; i<9; i++) cout <<"H"; cout<< endl;
+
+   for (int i=0; i<3; i++) {  for (int i=0; i<30; i++) cout<<" ";
+   cout<<"A"; for (int i=0; i<7; i++) cout<<" "; cout<<"A"; cout<<"  "; cout<<"L";
+   for (int i=0; i<10; i++) cout<<" "; cout<<"L"; for (int i=0; i<10; i++) cout<<" "; cout<<"A";
+   for (int i=0; i<7; i++) cout<<" "; cout<<"A"; cout<<"  "; cout<<"H";
+   for (int i=0; i<7; i++) cout<<" "; cout<<"H"; cout <<endl;
+   }
+
+   for (int i=0; i<30; i++) cout<<" "; cout<<"A"; for (int i=0; i<7; i++) cout<<" "; cout<<"A"; cout<<"  ";
+   for (int i=0; i<9; i++) cout <<"L"; cout<<"  "; for (int i=0; i<9; i++) cout <<"L"; cout<<"  ";
+   cout<<"A"; for (int i=0; i<7; i++) cout<<" "; cout<<"A"; cout<<"  "; cout<<"H";
+   for (int i=0; i<7; i++) cout<<" "; cout<<"H";
+   cout <<endl;
+   cout <<endl; cout <<endl;
+   for (int i=0; i<40; i++) cout<<" "; cout<<"instagram: abbas_ibn_ilxam "<< endl;
+   cout<< endl;
+   cout<<endl;
+   cout <<endl;
+   system("PAUSE");
+return 0;
+}
+
+
+
+
+
+
+
+// Inserting the letter A on the heart
+#include <iostream>
+#include <cstdlib>
+using namespace std;
+   int main () { 
+      cout << endl; cout << endl; cout << endl;
+ 
+      for (int i=0; i<40; i++) cout<< " "; for (int i=0; i<4; i++) cout<<" "; for (int i=0; i<5; i++) cout<<"A";
+      for (int i=0; i<4; i++) cout<<" "; for (int i=0; i<5; i++) cout<<"A"; cout<< endl;
+
+      for (int i=0; i<40; i++) cout<< " "; for (int i=0; i<3; i++) cout<<" "; for (int i=0; i<7; i++) cout<<"A";
+      cout<<"  "; for (int i=0; i<7; i++) cout<<"A"; cout << endl;
+
+      for (int i=0; i<40; i++) cout<< " "; cout<< "  "; for (int i=0; i<18; i++) cout<<"A"; cout << endl;
+
+      for (int i=0; i<40; i++) cout<< " "; cout<< " "; for (int i=0; i<7; i++) cout<<"A";
+      for (int i=0; i<6; i++) cout<<" "; for (int i=0; i<7; i++) cout<<"A"; cout << endl;
+
+      for (int i=0; i<3; i++) { for (int i=0; i<40; i++) cout<< " ";
+         for (int i=0; i<8; i++) cout<<"A"; cout << " "; for (int i=0; i<4; i++) cout<<"A";
+         cout << " "; for (int i=0; i<8; i++) cout<<"A"; cout << endl; }
+
+      for (int i=0; i<40; i++) cout<< " "; for (int i=0; i<8; i++) cout<<"A"; for (int i=0; i<6; i++) cout<<" ";
+      for (int i=0; i<8; i++) cout<<"A"; cout<< endl;
+
+      for (int i=0; i<40; i++) cout<< " "; cout << " "; for (int i=0; i<7; i++) cout<<"A"; cout <<" ";
+      for (int i=0; i<4; i++) cout<<"A"; cout<<" "; for (int i=0; i<7; i++) cout<<"A"; cout << endl;
+
+      for (int i=0; i<40; i++) cout<< " "; cout << "  "; for (int i=0; i<6; i++) cout<<"A"; cout <<" ";
+      for (int i=0; i<4; i++) cout<<"A"; cout<<" "; for (int i=0; i<6; i++) cout<<"A"; cout << endl;
+
+      for (int i=0; i<40; i++) cout<< " "; for (int i=0; i<3; i++) cout << " "; for (int i=0; i<5; i++) cout<<"A";
+      cout <<" "; for (int i=0; i<4; i++) cout<<"A"; cout<<" "; for (int i=0; i<5; i++) cout<<"A"; cout << endl;
+
+      for (int i=0; i<40; i++) cout<< " "; for (int i=0; i<4; i++) cout << " "; for (int i=0; i<4; i++) cout<<"A";
+      cout <<" "; for (int i=0; i<4; i++) cout<<"A"; cout<<" "; for (int i=0; i<4; i++) cout<<"A"; cout << endl;
+
+      for (int i=0; i<40; i++) cout<< " "; for (int i=0; i<5; i++) cout << " "; for (int i=0; i<3; i++) cout<<"A";
+      cout <<" "; for (int i=0; i<4; i++) cout<<"A"; cout<<" "; for (int i=0; i<3; i++) cout<<"A"; cout << endl;
+
+      for (int i=0; i<40; i++) cout<< " "; for (int i=0; i<6; i++) cout << " "; for (int i=0; i<2; i++) cout<<"A";
+      cout <<" "; for (int i=0; i<4; i++) cout<<"A"; cout<<" "; for (int i=0; i<2; i++) cout<<"A"; cout << endl;
+
+      for (int i=0; i<40; i++) cout<< " "; for (int i=0; i<7; i++) cout << " "; for (int i=0; i<8; i++) cout << "A"; cout << endl;
+
+      for (int i=0; i<40; i++) cout<< " "; for (int i=0; i<8; i++) cout << " "; for (int i=0; i<6; i++) cout << "A"; cout << endl;
+
+      for (int i=0; i<40; i++) cout<< " "; for (int i=0; i<9; i++) cout << " "; for (int i=0; i<4; i++) cout << "A"; cout << endl;
+
+      for (int i=0; i<40; i++) cout<< " "; for (int i=0; i<10; i++) cout << " "; for (int i=0; i<2; i++) cout << "A"; cout << endl;
+
+      cout<< endl; cout << endl; for (int i=0; i<40; i++) cout<< " "; cout<< "instagram: abbas_ibn_ilxam"<<endl; 
+      cout<< endl; cout << endl;
+      
+   system("PAUSE");
+   return 0;
+}
+
+
+
+
+// I LOVE YOU
+#include <iostream>
+#include <cstdlib>
+using namespace std;
+   int main () {  cout<<endl<<endl<<endl;
+
+   for (int i=0; i<30; i++) cout << " ";
+     cout<< "III"; for (int i=0; i<6; i++) cout<<" "; cout<<"$$"; cout<<"  "; cout<<"$$"; for (int i=0; i<7; i++) cout<<" ";
+     cout<<"Y"; for (int i=0; i<6; i++) cout<<" "; cout<<"Y"; cout<<"  "; for (int i=0; i<9; i++) cout<<"O";
+     cout<<"  "; cout<<"U"; for (int i=0; i<7; i++) cout<<" "; cout<<"U"<<endl;
+
+     for (int i=0; i<30; i++) cout << " ";
+     cout<<" "; cout<<"I"; for (int i=0; i<6; i++) cout<<" "; cout<<"$"; cout<<"  "; cout<<"$$"; cout<<"  "; cout<<"$"; for (int i=0; i<7; i++) cout<<" ";
+     cout<<"Y"; for (int i=0; i<4; i++) cout<<" "; cout<<"Y"; for (int i=0; i<3; i++) cout<<" "; cout<<"O"; for (int i=0; i<7; i++) cout<<" ";
+     cout<<"O"; cout<<"  "; cout<<"U"; for (int i=0; i<7; i++) cout<<" "; cout<<"U"<<endl;
+
+     for (int i=0; i<30; i++) cout << " ";
+     cout<<" "; cout<<"I"; for (int i=0; i<5; i++) cout<<" "; cout<<"$"; for (int i=0; i<8; i++) cout<<" "; cout<<"$";  for (int i=0; i<7; i++) cout<<" ";
+   cout<<"Y";  cout<<"  "; cout<<"Y";for (int i=0; i<4; i++) cout<<" "; cout<<"O"; for (int i=0; i<7; i++) cout<<" ";
+    cout<<"O"; cout<<"  "; cout<<"U"; for (int i=0; i<7; i++) cout<<" "; cout<<"U"<<endl;
+
+     for (int i=0; i<30; i++) cout << " ";
+cout<<" "; cout<<"I"; ; for (int i=0; i<5; i++) cout<<" "; cout<<"$";  for (int i=0; i<8; i++) cout<<" "; cout<<"$";   for (int i=0; i<8; i++) cout<<" ";
+cout<<"YY";  for (int i=0; i<5; i++) cout<<" "; cout<<"O"; for (int i=0; i<7; i++) cout<<" ";
+     cout<<"O"; cout<<"  "; cout<<"U"; for (int i=0; i<7; i++) cout<<" "; cout<<"U"<<endl;
+
+     for (int i=0; i<30; i++) cout << " ";
+     cout<<" "; cout<<"I"; ; for (int i=0; i<5; i++) cout<<" "; cout<<"$";  for (int i=0; i<8; i++) cout<<" "; cout<<"$";   for (int i=0; i<8; i++) cout<<" ";
+     cout<<"Y"; for (int i=0; i<6; i++) cout<<" "; cout<<"O"; for (int i=0; i<7; i++) cout<<" ";
+     cout<<"O"; cout<<"  "; cout<<"U"; for (int i=0; i<7; i++) cout<<" "; cout<<"U"<<endl;
+
+        for (int i=0; i<30; i++) cout << " ";
+      cout<<" "; cout<<"I"; ; for (int i=0; i<6; i++) cout<<" "; cout<<"$";  for (int i=0; i<6; i++) cout<<" "; cout<<"$";   for (int i=0; i<8; i++) cout<<" ";
+     cout<<"Y"; for (int i=0; i<7; i++) cout<<" "; cout<<"O"; for (int i=0; i<7; i++) cout<<" ";
+     cout<<"O"; cout<<"  "; cout<<"U"; for (int i=0; i<7; i++) cout<<" "; cout<<"U"<<endl;
+
+     for (int i=0; i<30; i++) cout << " ";
+      cout<<" "; cout<<"I"; ; for (int i=0; i<7; i++) cout<<" "; cout<<"$";  for (int i=0; i<4; i++) cout<<" "; cout<<"$";   for (int i=0; i<8; i++) cout<<" ";
+     cout<<"Y"; for (int i=0; i<8; i++) cout<<" "; cout<<"O"; for (int i=0; i<7; i++) cout<<" ";
+     cout<<"O"; cout<<"  "; cout<<"U"; for (int i=0; i<7; i++) cout<<" "; cout<<"U"<<endl;
+
+  for (int i=0; i<30; i++) cout << " ";
+      cout<<" "; cout<<"I"; ; for (int i=0; i<8; i++) cout<<" "; cout<<"$";  cout<<"  "; cout<<"$";   for (int i=0; i<8; i++) cout<<" ";
+     cout<<"Y"; for (int i=0; i<9; i++) cout<<" "; cout<<"O"; for (int i=0; i<7; i++) cout<<" ";
+     cout<<"O"; cout<<"  "; cout<<"U"; for (int i=0; i<7; i++) cout<<" "; cout<<"U"<<endl;
+
+  for (int i=0; i<30; i++) cout << " ";
+     cout<<"III"; for (int i=0; i<8; i++) cout<<" "; cout<<"$$"; for (int i=0; i<8; i++) cout<<" ";
+     cout<<"Y"; for (int i=0; i<10; i++) cout<<" "; for(int i=0; i<9; i++) cout<<"O"; cout<<"  "; for (int i=0; i<9; i++) cout<<"U"; cout<<endl;
+
+    cout<<endl<<endl<<endl; for (int i=0; i<40; i++) cout << " ";   cout<< " instagram: abbas_ibn_ilxam ";
+     cout<<endl<<endl<<endl;
+   system("PAUSE");
+   return 0;
+}
+
+
+
+
+
+
+
+//JUMA AYYOMINGIZ MUBORAK BO'LSIN, AZIZ DINDOSHLAR!
+public class Class01 {
+    public static void main (String args []) {
+
+        for(int i=0; i<3; i++) System.out.println();
+        for(int i=0; i<15; i++) System.out.print(" ");
+        for (int i=0; i<7; i++) System.out.print(" "); System.out.print("JJ");
+        System.out.print("  ");System.out.print("U");
+        for (int i=0; i<7; i++) System.out.print(" "); System.out.print("U");
+        System.out.print("  "); System.out.print("MM");
+        for (int i=0; i<5; i++) System.out.print(" "); System.out.print("MM");
+        System.out.print("  "); for (int i=0; i<9; i++) System.out.print("A");
+        System.out.println();
+
+        for(int i=0; i<15; i++) System.out.print(" ");
+        for (int i=0; i<8; i++) System.out.print(" "); System.out.print("J");
+        System.out.print("  "); System.out.print("U");
+        for (int i=0; i<7; i++) System.out.print(" "); System.out.print("U");
+        System.out.print("  "); System.out.print("M"); System.out.print(" ");
+        System.out.print("M"); for (int i=0; i<3; i++) System.out.print(" ");
+        System.out.print("M"); System.out.print(" "); System.out.print("M");
+        System.out.print("  "); System.out.print("A");
+        for (int i=0; i<7; i++) System.out.print(" "); System.out.print("A");
+        System.out.println();
+
+        for(int i=0; i<15; i++) System.out.print(" ");
+        for (int i=0; i<8; i++) System.out.print(" "); System.out.print("J");
+        System.out.print("  "); System.out.print("U");
+        for (int i=0; i<7; i++) System.out.print(" "); System.out.print("U");
+        System.out.print("  "); System.out.print("M"); System.out.print("  ");
+        System.out.print("M"); System.out.print(" "); System.out.print("M");
+        System.out.print("  "); System.out.print("M"); System.out.print("  ");
+        System.out.print("A"); for (int i=0; i<7; i++) System.out.print(" ");
+        System.out.print("A"); System.out.println();
+
+        for(int i=0; i<15; i++) System.out.print(" ");
+        for (int i=0; i<8; i++) System.out.print(" "); System.out.print("J");
+        System.out.print("  "); System.out.print("U");
+        for (int i=0; i<7; i++) System.out.print(" "); System.out.print("U");
+        System.out.print("  "); System.out.print("M");
+        for (int i = 0; i < 3; i++) System.out.print(" "); System.out.print("M");
+        for (int i=0; i<3; i++) System.out.print(" "); System.out.print("M");
+        System.out.print("  "); System.out.print("A");
+        for (int i=0; i<7; i++) System.out.print(" "); System.out.print("A");
+        System.out.println();
+
+        for(int i=0; i<15; i++) System.out.print(" ");
+        for (int i=0; i<8; i++) System.out.print(" "); System.out.print("J");
+        System.out.print("  "); System.out.print("U");
+        for (int i=0; i<7; i++) System.out.print(" "); System.out.print("U");
+        System.out.print("  "); System.out.print("M");
+        for(int i=0; i<7; i++) System.out.print(" "); System.out.print("M");
+        System.out.print("  "); for(int i=0; i<9; i++) System.out.print("A");
+        System.out.println();
+
+        for (int j= 0; j<2; j++) { for(int i=0; i<15; i++) System.out.print(" ");
+            for (int i=0; i<8; i++) System.out.print(" "); System.out.print("J");
+            System.out.print("  "); System.out.print("U");
+            for (int i=0; i<7; i++) System.out.print(" "); System.out.print("U");
+            System.out.print("  "); System.out.print("M");
+            for (int i = 0; i <7; i++) System.out.print(" "); System.out.print("M");
+            System.out.print("  "); System.out.print("A");
+            for (int i=0; i<7; i++) System.out.print(" "); System.out.print("A");
+            System.out.println();
+        }
+
+        for(int i=0; i<15; i++) System.out.print(" ");
+        System.out.print("J"); for (int i=0; i<7; i++) System.out.print(" ");
+        System.out.print("J"); System.out.print("  "); System.out.print("U");
+        for (int i=0; i<7; i++) System.out.print(" "); System.out.print("U");
+        System.out.print("  "); System.out.print("M");
+        for (int i = 0; i <7; i++) System.out.print(" "); System.out.print("M");
+        System.out.print("  "); System.out.print("A");
+        for (int i=0; i<7; i++) System.out.print(" "); System.out.print("A");
+        System.out.println();
+
+        for(int i=0; i<15; i++) System.out.print(" ");
+        for (int i=0; i<9; i++) System.out.print("J"); System.out.print("  ");
+        for (int i=0; i<9; i++) System.out.print("U"); System.out.print("  ");
+        System.out.print("M"); for (int i = 0; i <7; i++) System.out.print(" ");
+        System.out.print("M"); System.out.print("  "); System.out.print("A");
+        for (int i=0; i<7; i++) System.out.print(" "); System.out.print("A");
+        System.out.println("\n\n\n\n");
+    }
+}
+
+
+
+
+// Juma s pomoshyu zvyozdochki
+public class Class01 {
+    public static void main (String args []) {
+        //1
+        for (int i=0; i<7; i++) System.out.print(" "); System.out.print("**"); System.out.print("  ");
+        System.out.print("*");  for (int i=0; i<7; i++) System.out.print(" "); System.out.print("*");
+        System.out.print("  "); System.out.print("**"); for (int i=0; i<5; i++) System.out.print(" ");
+        System.out.print("**"); System.out.print("  "); for (int i=0; i<9; i++) System.out.print("*");
+        System.out.println();
+        //2
+        for (int i=0; i<8; i++) System.out.print(" "); System.out.print("*"); System.out.print("  ");
+        System.out.print("*");  for (int i=0; i<7; i++) System.out.print(" "); System.out.print("*");
+        System.out.print("  "); System.out.print("*"); System.out.print(" "); System.out.print("*");
+        for (int i=0; i<3; i++) System.out.print(" "); System.out.print("*"); System.out.print(" ");
+        System.out.print("*"); System.out.print("  "); System.out.print("*");
+        for (int i=0; i<7; i++) System.out.print(" "); System.out.print("*");
+        System.out.println();
+        //3
+        for (int i=0; i<8; i++) System.out.print(" "); System.out.print("*"); System.out.print("  ");
+        System.out.print("*");  for (int i=0; i<7; i++) System.out.print(" "); System.out.print("*");
+        System.out.print("  "); System.out.print("*"); System.out.print("  "); System.out.print("*");
+        System.out.print(" "); System.out.print("*"); System.out.print("  ");
+        System.out.print("*"); System.out.print("  "); System.out.print("*");
+        for (int i=0; i<7; i++) System.out.print(" "); System.out.print("*");
+        System.out.println();
+        //4
+        for (int i=0; i<8; i++) System.out.print(" "); System.out.print("*"); System.out.print("  ");
+        System.out.print("*");  for (int i=0; i<7; i++) System.out.print(" "); System.out.print("*");
+        System.out.print("  "); System.out.print("*");
+        for (int i = 0; i < 3; i++) System.out.print(" "); System.out.print("*");
+        for (int i=0; i<3; i++) System.out.print(" "); System.out.print("*"); System.out.print("  ");
+        System.out.print("*");
+        for (int i=0; i<7; i++) System.out.print(" "); System.out.print("*");
+        System.out.println();
+        //5
+        for (int i=0; i<8; i++) System.out.print(" "); System.out.print("*"); System.out.print("  ");
+        System.out.print("*");  for (int i=0; i<7; i++) System.out.print(" "); System.out.print("*");
+        System.out.print("  "); System.out.print("*"); for(int i=0; i<7; i++) System.out.print(" ");
+        System.out.print("*"); System.out.print("  "); for(int i=0; i<9; i++) System.out.print("*");
+        System.out.println();
+        //6, 7
+        for (int j= 0; j<2; j++) {
+            for (int i=0; i<8; i++) System.out.print(" "); System.out.print("*"); System.out.print("  ");
+            System.out.print("*");  for (int i=0; i<7; i++) System.out.print(" "); System.out.print("*");
+            System.out.print("  "); System.out.print("*");
+            for (int i = 0; i <7; i++) System.out.print(" "); System.out.print("*"); System.out.print("  ");
+            System.out.print("*");
+            for (int i=0; i<7; i++) System.out.print(" "); System.out.print("*");
+            System.out.println();
+        }
+        //8
+        System.out.print("*"); for (int i=0; i<7; i++) System.out.print(" "); System.out.print("*"); System.out.print("  ");
+        System.out.print("*");  for (int i=0; i<7; i++) System.out.print(" "); System.out.print("*");
+        System.out.print("  "); System.out.print("*");
+        for (int i = 0; i <7; i++) System.out.print(" "); System.out.print("*"); System.out.print("  ");
+        System.out.print("*");
+        for (int i=0; i<7; i++) System.out.print(" "); System.out.print("*");
+        System.out.println();
+        //9
+        for (int i=0; i<9; i++) System.out.print("*"); System.out.print("  ");
+        for (int i=0; i<9; i++) System.out.print("*"); System.out.print("  "); System.out.print("*");
+        for (int i = 0; i <7; i++) System.out.print(" "); System.out.print("*"); System.out.print("  ");
+        System.out.print("*");
+        for (int i=0; i<7; i++) System.out.print(" "); System.out.print("*");
+        System.out.println("\n\n\n\n");
+    }
+}
